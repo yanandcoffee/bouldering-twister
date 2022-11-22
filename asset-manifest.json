@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yanandcoffee.github.io/csb-0t9sj3/static/css/main.759b0de6.chunk.css",
+    "main.js": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/main.be5971f3.chunk.js",
+    "main.js.map": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/main.be5971f3.chunk.js.map",
+    "runtime-main.js": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/runtime-main.f38d33c5.js",
+    "runtime-main.js.map": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/runtime-main.f38d33c5.js.map",
+    "static/js/2.4c000e5a.chunk.js": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/2.4c000e5a.chunk.js",
+    "static/js/2.4c000e5a.chunk.js.map": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/2.4c000e5a.chunk.js.map",
+    "index.html": "https://yanandcoffee.github.io/csb-0t9sj3/index.html",
+    "static/css/main.759b0de6.chunk.css.map": "https://yanandcoffee.github.io/csb-0t9sj3/static/css/main.759b0de6.chunk.css.map",
+    "static/js/2.4c000e5a.chunk.js.LICENSE.txt": "https://yanandcoffee.github.io/csb-0t9sj3/static/js/2.4c000e5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f38d33c5.js",
+    "static/js/2.4c000e5a.chunk.js",
+    "static/css/main.759b0de6.chunk.css",
+    "static/js/main.be5971f3.chunk.js"
+  ]
+}
